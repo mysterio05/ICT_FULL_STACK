@@ -19,7 +19,7 @@ const Navbar = () => {
       <AppBar>
         <Toolbar>
           <h3>student app</h3>&nbsp;&nbsp;
-          <Link to='/add'>
+          <Link to='/'>
           <Button variant="contained" color="inherit">Add</Button>
           </Link>&nbsp;&nbsp;
 

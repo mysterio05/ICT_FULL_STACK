@@ -16,7 +16,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path='/add' element={<Add/>}/>
+        <Route path='/' element={<Add/>}/>
         <Route path='/view' element={<View/>}/>
        </Routes>
     </>
